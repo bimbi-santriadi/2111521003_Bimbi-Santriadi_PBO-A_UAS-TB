@@ -1,0 +1,9 @@
+{
+  "java.project.sourcePaths": ["src"],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "e:\\VSCode Project\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31.jar",
+    "s:\\Sukma Anggarmadi\\OOP\\VSCode Project\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31.jar"
+  ]
+}
